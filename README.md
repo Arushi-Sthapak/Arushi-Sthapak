@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Arushiii !!
 
-![Banner](path/to/your/banner/image.png)
+![Banner](https://github.com/Arushi-Sthapak/Arushi-Sthapak/assets/99334415/af4ab5e5-2996-4012-8830-667aec9dd993)
 
 I'm a frontend developer who loves to create delightful user experiences and bring designs to life. With a passion for combining aesthetics and functionality, I craft pixel-perfect websites that make an impact. Also, I have build a few projects on Python.
 
