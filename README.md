@@ -1,10 +1,36 @@
- 👋 Hi, I’m Arushi Sthapak. 
-       Recently, I am pursuing my Bachelor's Degree in Computer Science Engineering.
-👀 I’m interested in all types of coding languages as I am a beginner now.. 
- 🌱 I’m currently learning C and C++. I have also learned Basics of Python and Mysql. 
-📫 Reach me through email arushi.sthapak2003@gmail.com.
+# 👋 Hello, I'm Arushiii !!
 
-<!---
-Arushi-Sthapak/Arushi-Sthapak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Banner](path/to/your/banner/image.png)
+
+I'm a frontend developer who loves to create delightful user experiences and bring designs to life. With a passion for combining aesthetics and functionality, I craft pixel-perfect websites that make an impact. Also, I have build a few projects on Python.
+
+## 🎨 Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- UI/UX Design
+- Python Dev
+
+
+## 🌱 Currently Learning
+
+I'm always striving to enhance my skills and stay up to date with the latest frontend technologies. Currently, I'm diving deeper into:
+
+- React.js
+- Vue.js
+- Django
+
+## 💬 Let's Connect
+
+I'm open to collaboration, feedback, and new opportunities. Feel free to reach out to me through the following channels:
+
+- Email: arushi.sthapak2003@gmail.com
+- Portfolio: 
+- LinkedIn: https://www.linkedin.com/in/arushi-sthapak/
+
+Let's create beautiful and impactful web experiences together! ✨
+ 
+
+
