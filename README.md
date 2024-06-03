@@ -1,6 +1,7 @@
 ## 👋 Hello, I'm Arushiii !!
 
-I'm a frontend developer who loves to create delightful user experiences and bring designs to life. With a passion for combining aesthetics and functionality, I craft pixel-perfect websites that make an impact. Also, I have build a few projects on Python.
+I'm a React and Python
+developer who loves to create delightful user experiences and bring designs to life. With a passion for combining aesthetics and functionality, I craft pixel-perfect websites that make an impact. Also, I have build a few projects on Python.
 
 
 <img src="https://github.com/Arushi-Sthapak/Arushi-Sthapak/assets/99334415/382a3d31-c7a9-4bc1-b93b-9ea3e00229e3" align="centre" width="400" 
