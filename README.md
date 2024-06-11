@@ -1,27 +1,18 @@
 ## 👋 Hello, I'm Arushiii !!
 
-I'm a React and Python
-developer who loves to create delightful user experiences and bring designs to life. With a passion for combining aesthetics and functionality, I craft pixel-perfect websites that make an impact. Also, I have build a few projects on Python.
-
-
-<img src="https://github.com/Arushi-Sthapak/Arushi-Sthapak/assets/99334415/382a3d31-c7a9-4bc1-b93b-9ea3e00229e3" align="centre" width="400" 
-     height="300">
-
-
+I'm a Python developer with experience in web development. I am skilled in Data Analytics and Machine Learning. I am a versatile coder as I have good Javascript and ReactJS, SvelteJS frameworks as well.
 
 ## 🎨 Skills
-<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width=150 height=100> 
-<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/website-ui-ux-icon.svg" width=100 height=100>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width=100 height=100>
+<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width=150 height=100> 
 
 
 ## 🌱 Currently Learning
 
-I'm always striving to enhance my skills and stay up to date with the latest frontend technologies. Currently, I'm diving deeper into:
+Currently, I'm diving deeper into:
 
-- React.js
-- Vue.js
-- Django
+-Machine Learning
+-Artificial Intelligence
 
 ## 💬 Let's Connect
 
