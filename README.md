@@ -4,6 +4,7 @@ I'm a Python developer with experience in web development. I am skilled in Data 
 
 ## 🎨 Skills
 DATA ANALYSIS - PANDAS, MATPLOTLIB, SEABORN
+
 TOOLS - POWER BI, TABLEAU
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width=100 height=100>
 
