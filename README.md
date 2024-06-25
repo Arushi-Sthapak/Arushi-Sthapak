@@ -3,8 +3,10 @@
 I'm a Python developer with experience in web development. I am skilled in Data Analytics and Machine Learning. I am a versatile coder as I have good Javascript and ReactJS, SvelteJS frameworks as well.
 
 ## 🎨 Skills
+DATA ANALYSIS - PANDAS, MATPLOTLIB, SEABORN
+TOOLS - POWER BI, TABLEAU
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width=100 height=100>
-<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width=150 height=100> 
+
 
 
 ## 🌱 Currently Learning
@@ -13,6 +15,9 @@ Currently, I'm diving deeper into:
 
 -Machine Learning
 -Artificial Intelligence
+
+## Check out my recent projects on Data Analysis
+https://github.com/Arushi-Sthapak/Stock-Price-Anomaly-Analysis
 
 ## 💬 Let's Connect
 
