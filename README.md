@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Arushiii !!
 
 🎯 Aspiring Data Scientist | Data Analyst | ML Enthusiast | 6-month Experience as Data Science Intern 
-
 🔍 Passionate about data, analytics, and building ML models to solve real-world problems.
 
 ## 🚀 Skills  
@@ -12,8 +11,8 @@
 
 
 ## 📌 Projects  
-🔹 **[FinX Smart Trader](GitHub_Link)** → Stock Market Financial Analysis App (Tech used: `Pandas`, `Seaborn`)  
-🔹 **[Project Name 2](GitHub_Link)** → Short description (Tech used: `XGBoost`, `Flask`)  
+🔹 **[FinX Smart Trader](https://stock-price-valuation-calculator-ekt6bqpvbmtcj3xenfzfvu.streamlit.app/)** → Stock Market Financial Analysis App (Tech used: `Pandas`, `Seaborn`)  
+
 🔹 **[Dashboard](GitHub_Link)** → Interactive Power BI/Tableau dashboard
 
 
