@@ -18,7 +18,7 @@
 
 
 ## 📫 Connect with Me  
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/arushi-sthapak/)  
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/arushi-sthapak/)  
 ✉️ **Email:** arushi.sthapak2003@gmail.com
 
 I'm open to collaboration, feedback, and new opportunities. Feel free to reach out to me.
