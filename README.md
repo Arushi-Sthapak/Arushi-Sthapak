@@ -4,6 +4,7 @@
 ## 👋 Hello, I'm Arushii!
 
 🎯 Aspiring Data Scientist | Data Analyst | ML Enthusiast | 6-month Experience as Data Science Intern 
+
 🔍 Passionate about data, analytics, and building ML models to solve real-world problems.
 
 ## 🚀 Skills  
