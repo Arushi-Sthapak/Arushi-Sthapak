@@ -1,4 +1,6 @@
-## 👋 Hello, I'm Arushiii !!
+
+## 👋 Hello, I'm Arushii![Black Minimalist Corporate Business Profile LinkedIn Banner](https://github.com/user-attachments/assets/1766cd9a-3deb-443a-b451-076ab9eeb7ca)
+i !!
 
 🎯 Aspiring Data Scientist | Data Analyst | ML Enthusiast | 6-month Experience as Data Science Intern 
 🔍 Passionate about data, analytics, and building ML models to solve real-world problems.
