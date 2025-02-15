@@ -1,5 +1,5 @@
 
-[Black Minimalist Corporate Business Profile LinkedIn Banner](https://github.com/user-attachments/assets/1766cd9a-3deb-443a-b451-076ab9eeb7ca)
+![Black Minimalist Corporate Business Profile LinkedIn Banner](https://github.com/user-attachments/assets/7e91bda8-3b5c-4558-99e2-bab479a5c1dd)
 
 ## 👋 Hello, I'm Arushii!
 
