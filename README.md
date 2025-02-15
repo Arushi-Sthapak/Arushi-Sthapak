@@ -16,7 +16,9 @@
 🔹 **[Dashboard](GitHub_Link)** → Interactive Power BI/Tableau dashboard
 
 
+
 ## 📫 Connect with Me  
+
 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/arushi-sthapak/)  
 ✉️ **Email:** arushi.sthapak2003@gmail.com
 
