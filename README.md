@@ -3,11 +3,14 @@
 
 ## 👋 Hello, I'm Arushii!
 
-🎯 Aspiring Data Scientist | Data Analyst | ML Enthusiast | 6-month Experience as Data Science Intern 
+🎯 AI Engineer | LLMs | RAG | GEN AI | MACHINE LEARNING |
 
-🔍 Passionate about data, analytics, and building ML models to solve real-world problems.
+🔍 OEPN TO :
+- DISCUSS LATEST LLM & RAG TECH.
+- WORK & BUILD REVOLUTIONIZING THE WORLD WITH GEN AI.
 
 ## 🚀 Skills  
+- **GEN AI:** LLMs, RAG, VECTOR EMBEDDINGS, LANGCHAIN
 - **Languages:** Python, SQL, JavaScript  
 - **Data Analysis:** Pandas, NumPy, Power BI, Tableau  
 - **Machine Learning:** Scikit-learn, XGBoost, TensorFlow  
